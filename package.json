@@ -1,0 +1,33 @@
+{
+  "name": "lab2",
+  "version": "1.0.0",
+  "description": "restful_api for user",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ageenkoasa/restful-api-user.git"
+  },
+  "keywords": [
+    "restful",
+    "api",
+    "get",
+    "post",
+    "put",
+    "delete"
+  ],
+  "author": "anna-sofia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ageenkoasa/restful-api-user/issues"
+  },
+  "homepage": "https://github.com/ageenkoasa/restful-api-user#readme",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.21.0",
+    "lab2": "file:",
+    "pg": "^8.13.0"
+  }
+}
